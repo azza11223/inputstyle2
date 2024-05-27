@@ -1,0 +1,93 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    
+  }
+  .input-group{
+    position: relative;
+    text-align: center;
+   
+
+  }
+
+  .box{
+    width: 378px;
+    height: 489px;
+    top: 131px;
+    left: 451px;
+    border: rgba(244, 180, 180, 0.48)   1px solid;
+    background-color:aliceblue; 
+    position: relative;
+}
+  
+img{
+    Width:276.77px;
+    Height:172.78px;
+    margin-top: 20px;
+    margin-left: 50px;
+    
+    
+    
+  
+}
+
+ .email{
+    font-weight: 500;
+    color: rgba(97, 97, 97, 1);
+    width: 41px;
+    height: 19px;
+     top: 363px;
+     padding-left: 30px;
+     margin-top: 10px;
+   
+   
+  
+ }
+input{
+    width: 315px;
+    height: 45px;
+    border-radius: 10px;
+    border: 1px rgba(244, 180, 180, 0.48) solid;
+    top: 388px;
+    margin-top: 10px;
+   
+
+   
+    
+ }
+ .email::placeholder{
+    color: rgba(158, 158, 158, 1)
+    
+    
+ }
+ 
+ h3{
+    font-weight: 500;
+    color: rgba(97, 97, 97, 1);
+    line-height: 19.36px;
+    width: 75px;
+    padding-left: 30px;
+    margin-top: 20px;
+   
+    
+    
+ }
+ .password{
+    width: 315px;
+    height: 45px;
+    border-radius: 10px;
+    border: 1px rgba(244, 180, 180, 0.48) solid;
+    margin-top: 10px;
+
+   
+   }
+   button {
+    width: 315px;
+    height: 45px;
+    top: 652px;
+    left: 482px;
+    border-radius: 10px;
+    background-color:  rgba(103, 86, 203, 1);
+    color: rgba(255, 255, 255, 1);
+    margin-top: 20px;
+   }
